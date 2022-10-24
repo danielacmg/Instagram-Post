@@ -1,0 +1,108 @@
+/*
+* {
+	border: 1px dashed red;
+	
+}
+*/
+
+
+body{
+    background-color: black;
+    font-family: Roboto;
+    margin: 0;
+}
+
+/*
+.header{
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+
+h1{
+    margin: 0 auto;
+}
+*/
+
+.wrapper{
+    background-color: black;
+	margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    
+}
+
+.cajita{
+    width: 400px;
+    height: auto;
+    background-color: white;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    
+}
+.hcajita{
+    height: 50px;
+    display: flex;
+    padding: 5px;
+}
+
+.ftitle{
+    font-weight: bold;
+    font-size: larger;
+}
+
+.hcajita p {
+	width: 340px;
+    margin-top: 0px;
+}    
+/*
+.hcajita h3 {
+	width: 340px;
+}
+*/
+#html5Icon{
+    padding: 3px;
+}
+.npic{
+    width: 50px;
+    height: 50px;
+    text-align: right;
+    vertical-align: middle;
+    margin-top: 0px;
+}
+
+.bcajita img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+     
+}
+
+/*.icajita, .lcajita{
+    height: auto;
+}
+*/
+.iconsLeft{
+    width: 50%;
+}
+.bookmarkIcon {
+    /*width: 340px;
+    padding-left: 240px;*/
+    width: 50%;
+    text-align: right;
+}
+.icajita{
+    display: flex;
+}
+.anotherRight{
+    text-align: right;
+}
+.fcajita{
+    min-height: 100px;
+    padding: 5px;
+}
